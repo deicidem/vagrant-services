@@ -17,7 +17,8 @@ services:
       - "5050:80"
     networks:
       - services-network
-  
+    environment:
+      - WeatherService=http://servicetwo:80/
   servicetwo:
     container_name: servicetwo
     image: servicetwo:latest
@@ -26,3 +27,4 @@ services:
       dockerfile: Dockerfile    
     networks:
       - services-network
+  
