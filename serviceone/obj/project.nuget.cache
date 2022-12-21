@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WqG4Ub6ziP6CQRQi2O6H3jGUtM6wkVGc7SxoiPyLVIWWHaA+O9QIhV49fNiMFxPbPLtM5BhCnk3BrwYTGm5kpw==",
+  "success": true,
+  "projectFilePath": "D:\\lab\\serviceone\\serviceone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krono\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\krono\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\krono\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\krono\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\krono\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\krono\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
